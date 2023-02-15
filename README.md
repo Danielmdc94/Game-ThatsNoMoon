@@ -14,7 +14,7 @@
   
   <img src="https://github.com/Danielmdc94/Game-ThatsNoMoon/blob/main/Assets/ThatsNoMoon-Gameplay.png"/>
   
-  <img src="https://github.com/Danielmdc94/Game-ThatsNoMoon/blob/main/Assets/ThatsNoMoon-GameOver.png"/>
-  
   <img src="https://github.com/Danielmdc94/Game-ThatsNoMoon/blob/main/Assets/ThatsNoMoon-Shield.png"/>
+  
+   <img src="https://github.com/Danielmdc94/Game-ThatsNoMoon/blob/main/Assets/ThatsNoMoon-GameOver.png"/>
 </div>
