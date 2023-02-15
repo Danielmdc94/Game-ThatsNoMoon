@@ -1,5 +1,5 @@
 # Game-ThatsNoMoon
-<p>This game is the first project I've ever done in unity as well as my first coding experience. I wanted to make a game from scratch so all assets are made by me with Blender.</p>
+<p>This game is the first project I've ever done in unity as well as my first coding experience. All models are made by me in blender but most are the intellectual property of Lucasfilm Ltd.</p>
 
 <h2>How to Play</h2>
 <p>&emsp;WASD to move</p>
